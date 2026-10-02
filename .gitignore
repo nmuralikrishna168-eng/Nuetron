@@ -1,0 +1,16 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.venv
+venv/
+
+# Generated local output
+generated_projects/
+screenshots/
+*.zip
+
+# OS files
+.DS_Store
